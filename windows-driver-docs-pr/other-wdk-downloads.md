@@ -43,15 +43,15 @@ The EWDK is a standalone self-contained command-line environment for building dr
 
 ### ![download icon](images/download-install.png) EWDK with Visual Studio Build Tools 15.6 (Recommended)
 
-* [Download EWDK for Windows 10, version 1709](https://developer.microsoft.com/en-us/windows/hardware/license-terms-enterprise-wdk-1709-VS15-6)
+* [Download EWDK for Windows 10, version 1709](https://developer.microsoft.com/en-us/windows/hardware/license-terms-EWDK)
 
 ### ![download icon](images/download-install.png) EWDK with Visual Studio Build Tools 15.4
 
-* [Download EWDK for Windows 10, version 1709](https://developer.microsoft.com/windows/hardware/license-terms-enterprise-wdk-1709-VS15-4)
+* [Download EWDK for Windows 10, version 1709](https://developer.microsoft.com/en-us/windows/hardware/license-terms-EWDK)
 
 ### ![download icon](images/download-install.png) EWDK with Visual Studio Build Tools 15.2
 
-* [Download EWDK for Windows 10, version 1709](https://developer.microsoft.com/windows/hardware/license-terms-enterprise-wdk-1709)
+* [Download EWDK for Windows 10, version 1709](https://developer.microsoft.com/en-us/windows/hardware/license-terms-EWDK)
 
 To get started, mount the ISO and run **LaunchBuildEnv**.
 
@@ -92,7 +92,7 @@ These editions of Visual Studio 2015 support driver development.
 You can also install the EWDK to build drivers and basic Win32 test applications in a command-line build environment. This environment doesn't include all the features available in Visual Studio, such as the integrated development environment (IDE), so you'll need to use a code editor of your choice. 
 
 * [Learn more about the EWDK](https://go.microsoft.com/fwlink/p/?LinkId=846040)
-* [Download EWDK for Windows 10, version 1703](https://developer.microsoft.com/windows/hardware/license-terms-enterprise-wdk-1703)
+* [Download EWDK for Windows 10, version 1703](https://developer.microsoft.com/en-us/windows/hardware/license-terms-enterprise-wdk)
 
 
 ## ![download icon](images/download-install.png) WDK for Windows 10, version 1607
